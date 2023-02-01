@@ -6,7 +6,7 @@
 		<version>1.0.0-beta1</version>
 	</parent>
 	<artifactId>nfalco79-enforcer-rules</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
     <url>https://github.com/nfalco79/maven-enforcer-rules</url>
 
     <issueManagement>
@@ -17,7 +17,7 @@
 		<url>https://github.com/nfalco79/maven-enforcer-rules</url>
 		<connection>scm:git:git@github.com:nfalco79/maven-enforcer-rules.git</connection>
 		<developerConnection>scm:git:git@github.com:nfalco79/maven-enforcer-rules.git</developerConnection>
-		<tag>1.0.0</tag>
+		<tag>head</tag>
 	</scm>
 	<properties>
 		<java.level>8</java.level>
