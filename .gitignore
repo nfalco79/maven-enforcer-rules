@@ -1,0 +1,12 @@
+.DS_Store
+bin/
+target/
+.sonar/
+*.iws
+*.iml
+*.ipr
+.idea/
+.idea_modules/
+.project
+.classpath
+.settings/
