@@ -12,7 +12,7 @@
 	<properties>
 		<java.level>8</java.level>
 		<api.version>3.2.1</api.version>
-		<maven.version>3.3.9</maven.version>
+		<maven.version>3.8.7</maven.version>
 	</properties>
 	<dependencies>
 		<dependency>
