@@ -21,7 +21,7 @@
 	</scm>
 	<properties>
 		<java.level>8</java.level>
-		<api.version>3.2.1</api.version>
+		<api.version>3.3.0</api.version>
 		<maven.version>3.3.9</maven.version>
 	</properties>
 	<dependencies>
